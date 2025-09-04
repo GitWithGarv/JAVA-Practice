@@ -17,5 +17,7 @@ public class armstrong {
             System.out.println("it is an armstrong no");
         else
             System.out.println("it is not an armstrong no");
+
+        sc.close();
     }
 }
