@@ -13,7 +13,7 @@ public class copingArray {
             b[i] = a[i];
         }
 
-        System.out.print("Copied Array b : ");
+        System.out.print("Copied Array b :");
 
 
         for(int num : b){
